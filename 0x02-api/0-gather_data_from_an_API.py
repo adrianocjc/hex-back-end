@@ -1,4 +1,6 @@
-pt that use REST API for returns information
+#!/usr/bin/python3
+"""
+script that use REST API for returns information
 about employee TODO list progress
 """
 
