@@ -27,4 +27,4 @@ def getApi(u):
     data_to_file.close()
 
 if __name__ == '__main__':
-getApi(argv[1])
+    getApi(argv[1])
