@@ -17,4 +17,4 @@ def urlRequest(url, email):
     print(r.text)
 
 if __name__ == "__main__":
-urlRequest(argv[1], argv[2])
+    urlRequest(argv[1], argv[2])
