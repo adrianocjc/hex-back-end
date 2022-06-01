@@ -29,4 +29,4 @@ def getApi(u):
 
 
 if __name__ == '__main__':
-getApi(argv[1])
+    getApi(argv[1])
