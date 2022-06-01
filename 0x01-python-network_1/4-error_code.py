@@ -18,4 +18,4 @@ def urlRequest(url):
         print('Error code: {}'.format(code))
 
 if __name__ == '__main__':
-urlRequest(argv[1])
+    urlRequest(argv[1])
